@@ -1,0 +1,37 @@
+{
+  "last_run": "2026-06-06 19:05:37",
+  "steps": {
+    "1_stock_list": {
+      "done": true,
+      "idx": 0
+    },
+    "2_stock_industry": {
+      "done": true,
+      "idx": 0
+    },
+    "3_profit": {
+      "done": true,
+      "idx": 0
+    },
+    "4_growth": {
+      "done": true,
+      "idx": 0
+    },
+    "5_balance": {
+      "done": true,
+      "idx": 0
+    },
+    "6_cash_flow": {
+      "done": true,
+      "idx": 0
+    },
+    "7_dividend": {
+      "done": false,
+      "idx": 0
+    },
+    "8_performance": {
+      "done": false,
+      "idx": 0
+    }
+  }
+}

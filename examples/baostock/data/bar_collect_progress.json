@@ -1,0 +1,62 @@
+{
+  "5": {
+    "last_code": "sz.302132",
+    "last_run": "2026-06-18 18:00:29",
+    "period_start": "2026-06-16",
+    "period_end": "2026-06-17",
+    "is_period_done": true,
+    "period_key": "2026-06-17",
+    "last_query_time": "2026-06-17 22:04:54",
+    "progress": "4719/4920"
+  },
+  "d": {
+    "last_code": "sz.302132",
+    "last_run": "2026-06-18 18:00:29",
+    "period_start": "2026-06-13",
+    "period_end": "2026-06-17",
+    "is_period_done": true,
+    "period_key": "2026-06-17",
+    "last_query_time": "2026-06-17 23:17:43",
+    "progress": "4879/4920"
+  },
+  "w": {
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-18",
+    "is_period_done": true,
+    "period_key": "2026-06-12",
+    "last_code": "sz.302132",
+    "last_query_time": "2026-06-18 21:35:28",
+    "progress": "4920/4920",
+    "last_run": "2026-06-18 22:07:14"
+  },
+  "m": {
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-18",
+    "is_period_done": true,
+    "period_key": "2026-05-31",
+    "last_code": "sz.302132",
+    "last_query_time": "2026-06-18 22:46:07",
+    "progress": "4920/4920",
+    "last_run": "2026-06-18 22:49:20"
+  },
+  "last_run": "2026-06-18 22:49:20",
+  "_comment": {
+    "description": "K线数据采集进度文件，按频率(frequency)分组记录",
+    "frequency_keys": {
+      "5": "5分钟线",
+      "d": "日线",
+      "w": "周线",
+      "m": "月线"
+    },
+    "fields": {
+      "last_code": "最后查询的baostock股票代码（如 sh.600000）",
+      "last_query_time": "最后一次API请求时间",
+      "progress": "当前进度（已处理股票数/总股票数）",
+      "period_start": "本轮采集起始日期",
+      "period_end": "本轮采集结束日期",
+      "is_period_done": "本轮是否全部采集完（true/false）",
+      "period_key": "周期标识，用于判断是否同一周期",
+      "last_run": "最后一次运行完成时间"
+    }
+  }
+}

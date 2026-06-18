@@ -41,3 +41,6 @@ _templates
 # Alpha
 lab/
 /.mypy_cache
+
+# log
+*.log
